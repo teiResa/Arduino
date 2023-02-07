@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "sketch": "scrolling_text_on_lcd\\scrolling_text_on_lcd.ino",
+    "port": "COM3"
+}
