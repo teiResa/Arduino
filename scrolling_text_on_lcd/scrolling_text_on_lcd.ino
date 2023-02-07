@@ -1,3 +1,13 @@
+#include <SD.h>
+
+#include <Adafruit_FRAM_SPI.h>
+
+#include <MD_MAX72xx_lib.h>
+#include <MD_MAX72xx.h>
+
+#include <MD_Parola_lib.h>
+#include <MD_Parola.h>
+
 // https://www.engineersgarage.com/moving-text-on-16x2-lcd-with-arduino/
                                                                   
 #include<LiquidCrystal.h>
