@@ -1,0 +1,3 @@
+I Was using the IDE
+
+In order for these files to be uploaded into the Arduino, I think you would have to make them contained within their own folders with names matching themselves. It was be that they would even have to be contained within their own repo. IDK. For now, ctrl+A; ctrl+C; click, ctrl+V
