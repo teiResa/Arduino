@@ -24,6 +24,8 @@ this is cool. my keyboard slowly turns white the longer you text then when you s
 ~ Did every example up until... (Motors. The Servos were busy, and I need a new Diode and PNP Transistor.)
 ~ Skipped DC Hobby Motor lesson and Servo lesson, although, I did read through them.
 ~ Piezo Lesson
+~ PROJECT 2 (Personal): Tune_GoYourOwnWay  ...Was going to convert the song from kalimba tabs, but holy that just seems like too much right now. I am almost done the more original parts, just need to change timings for other parts after this. I am not in the mood to piece that together right now, but I intend to someday. First bit up-to-chorus and 2/3 of chorus done. I need to not hear the song for a bit. 
+~
 
 
 */
