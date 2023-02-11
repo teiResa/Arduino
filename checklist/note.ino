@@ -21,7 +21,9 @@ this is cool. my keyboard slowly turns white the longer you text then when you s
 ~ Fade (example> Basics> fade)
 ~ Fading (example> Analog > fading)
 ~ PROJECT 1 (Personal): The Lights Game (PDF page 99)     ***** UPDATES FOR LATER. File's comments for more info.
-~ 
+~ Did every example up until... (Motors. The Servos were busy, and I need a new Diode and PNP Transistor.)
+~ Skipped DC Hobby Motor lesson and Servo lesson, although, I did read through them.
+~ Piezo Lesson
 
 
 */
