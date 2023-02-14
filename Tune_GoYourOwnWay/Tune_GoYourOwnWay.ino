@@ -22,7 +22,8 @@ int melody[] = {
   // Go Your Own Way - Fleetwood Mac
   //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-/*
+
+
   //"Loving you; Isn't the right thing to do."                    OK
     REST, 4, NOTE_C4, 8, NOTE_D4, 8, NOTE_E4, 4, REST, 4,
     NOTE_C4, 8, NOTE_D4, 8, NOTE_E4, 4, NOTE_F4, 2, NOTE_E4, 4, REST, 8, NOTE_D4, 8, NOTE_D4, 4,
@@ -33,7 +34,7 @@ int melody[] = {
     NOTE_G4, 4, NOTE_G4, 8, NOTE_G4, 4, REST, 4,
 
 
-  //"If I could; Maybe I'd give you my world."                   OK
+  //"If I could; Maybe (Baby, ..?) I'd give you my world."                   OK
     REST, 4, NOTE_C4, 8, NOTE_D4, 8, NOTE_E4, 4, REST, 2,
     NOTE_C4, 8, NOTE_D4, 8, NOTE_E4, 4, NOTE_F4, 2, NOTE_E4, 4, REST, 8, NOTE_D4, 8, NOTE_D4, 4,
   
@@ -43,8 +44,9 @@ int melody[] = {
     NOTE_F4, 4, NOTE_G4, 8, NOTE_A4, 8, NOTE_C5, 4, NOTE_F4, 8, 
     NOTE_G4, 8, NOTE_G4, 4, REST, 4,
 
+
     
-*/
+
     
 
   //~~~~~~~~~~~ CHORUS ~~~~~~~~~~~
@@ -66,6 +68,42 @@ int melody[] = {
 
   //"go your own way"
     //NOTE_F4, 4, NOTE_D4, 4, NOTE_C4, 4, /* waaaay *//*NOTE_D4, 2, */NOTE_B3, 8, NOTE_A3, 4,
+
+
+   //~~~ UNTOUCHED BELOW
+
+
+
+  //"Tell me why; everything turned around."    cde; dce f ed
+     NOTE_C4, NOTE_D4, NOTE_E4, NOTE_D4, NOTE_C4, NOTE_E4, NOTE_F4, NOTE_E4, NOTE_D4,
+
+  //"Packing up; shacking up"   fg ag fg a
+    NOTE_F4, NOTE_G4, NOTE_A4, NOTE_G4, NOTE_F4, NOTE_G4, NOTE_A4,
+    
+  //"is all you want to do."     c* f g g g g
+    NOTE_C4, NOTE_F4, NOTE_G4, NOTE_G4, NOTE_G4, NOTE_G4,
+
+  
+  
+  
+  
+  
+  //"If I could; Maybe I'd give you my world."                   OK
+    REST, 4, NOTE_C4, 8, NOTE_D4, 8, NOTE_E4, 4, REST, 2,
+    NOTE_C4, 8, NOTE_D4, 8, NOTE_E4, 4, NOTE_F4, 2, NOTE_E4, 4, REST, 8, NOTE_D4, 8, NOTE_D4, 4,
+  
+  //"Open up; Everything's waiting for you."                 FINE.
+    REST, 4, NOTE_F4, 4, NOTE_G4, 8, NOTE_A4, 8, REST, 4, 
+  
+    NOTE_F4, 4, NOTE_G4, 8, NOTE_A4, 8, NOTE_C5, 4, NOTE_F4, 8, 
+    NOTE_G4, 8, NOTE_G4, 4, REST, 4,
+      
+  // Chorus X3 
+
+
+
+
+     
  
 };
 
